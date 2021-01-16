@@ -2,8 +2,6 @@
 //  AppDelegate.swift
 //  HW4
 //
-//  Created by User20 on 2020/5/14.
-//  Copyright © 2020 00657143. All rights reserved.
 //
 
 import UIKit
