@@ -2,8 +2,6 @@
 //  AppView.swift
 //  HW4
 //
-//  Created by User16 on 2020/5/27.
-//  Copyright © 2020 ntou. All rights reserved.
 //
 
 import SwiftUI
