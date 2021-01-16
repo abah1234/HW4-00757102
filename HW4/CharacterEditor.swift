@@ -13,7 +13,7 @@ struct CharacterEditor: View {
     var charactersData = CharactersData()
     @State private var name = "艾黛爾賈特"
     var character = ["艾黛爾賈特", "修伯特", "多洛緹雅", "卡斯帕爾", "貝爾娜提塔", "佩托拉", "林哈爾特", "菲爾迪南特", "帝彌托利", "杜篤", "希爾凡", "亞修", "英谷莉特", "菲力克斯", "雅妮特", "梅爾賽德司", "庫羅德", "伊古納茲", "希爾妲", "拉斐爾", "洛廉茲", "莉絲提亞", "雷歐妮", "瑪莉安奴"]
-    @State private var job = "弓箭手"
+    @State private var job = "弓手"
     var occupation = ["弓手", "要塞", "修士", "術師", "士兵", "騎士", "法師", "刺客"]
     @State private var useful = 3
     @State private var favourite = true
